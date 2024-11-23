@@ -1,0 +1,2 @@
+pdd_list 没有参数的时候把所有的日记都展示出来，有start和end参数的时候，就只展示这个区间内的日记
+pdd_add,pdd_show,pdd_remove都只需要一个data参数，然后针对对应date的日记进行读写操作

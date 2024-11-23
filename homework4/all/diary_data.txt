@@ -1,0 +1,14 @@
+date: 2023-08-01
+content: this is a special day,but I forget why this day is so special.
+date: 2024-09-15
+content: today is mid-autumn festival, the moon is huge and beautiful.
+date: 2024-09-16
+content: wow, pd_add is done!
+date: 2024-10-1
+content: today is a holiday,wow.
+date: 2024-11-11
+content: today I buy a lot of things on the internet.
+date: 2024-11-20
+content: today is very busy, I got a lot of things to do.
+date: 2024-11-23
+content: My homework4 is done!

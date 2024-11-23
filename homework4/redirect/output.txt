@@ -1,0 +1,4 @@
+read
+data
+from
+stdin
